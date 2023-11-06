@@ -14,8 +14,8 @@ Build OpenWrt using GitHub Actions
 
 ### APP
 - PassWall
-~- luci-app-udpxy~
-~- igmpproxy~
+- ~luci-app-udpxy~
+- ~igmpproxy~
 
 
 ### NGINX错误修复方式
